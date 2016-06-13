@@ -2,7 +2,7 @@
 
 Some example notebooks:
 
-* [Kronig Penney](notes/KronigPenny.ipynb) - Show's the basic technologies required for interactive lecture notes. Markdown text, executable code, widgets and YouTube videos.
+* [Kronig Penney](notes/KronigPenney.ipynb) - Show's the basic technologies required for interactive lecture notes. Markdown text, executable code, widgets and YouTube videos.
 * [Widgets tutorial](./notes/ipywidgets.ipynb) - The basics of building an **interact** widget
 * [Introduction to Markdown](./notes/Introduction_to_Markdown.ipynb) - An introduction to Markdown text.
 
